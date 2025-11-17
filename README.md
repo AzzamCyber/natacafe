@@ -44,7 +44,7 @@
 | **Manajemen Produk** | Tampilan CRUD produk, dengan preview gambar dan manajemen kategori. |
 | **Laporan Admin** | Dashboard ringkas dan daftar pesanan lengkap dengan fitur *export*. |
 
-![POS Command](https://via.placeholder.com/600x200/4FC3F7/000000?text=💻+Tampilan+POS+Preview)
+![POS Command](https://github.com/AzzamCyber/natacafe/blob/main/page1.png)
 ![Manage Product](https://via.placeholder.com/600x200/0288D1/FFFFFF?text=🛠️+Manajemen+Produk+Preview)
 ![Checkout Success](https://via.placeholder.com/600x200/00C853/FFFFFF?text=✅+Cetak+Struk+Sukses)
 
