@@ -54,6 +54,6 @@
 - PHP 7.4+ (Disarankan PHP 8.0+)
 - MySQL / MariaDB (via XAMPP/Laragon/sejenisnya)
 - Git
-
-   git clone [https://github.com/Natakenshi/NataPOS.git](https://github.com/Natakenshi/NataPOS.git)
-   cd NataPOS
+```bash
+git clone https://github.com/AzzamCyber/natacafe.git
+```
